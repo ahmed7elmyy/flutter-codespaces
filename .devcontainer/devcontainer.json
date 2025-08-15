@@ -1,0 +1,9 @@
+{
+  "name": "Flutter Codespace",
+  "features": {
+    "ghcr.io/devcontainers/features/flutter:1": {
+      "version": "stable"
+    }
+  },
+  "postCreateCommand": "flutter doctor"
+}
